@@ -10,7 +10,7 @@ It includes the complete datasets and analysis code used in the study, for refer
 - `annotated_wos_data/` — Classified literature dataset covering three categories of ecosystem services
 - `code/` — Main analysis scripts for bibliometric computation and classification
 - `50m_cultural/` — Geospatial data (50 m resolution) for cultural ecosystem service mapping
-- `100m_cultural/` — Geospatial data (100 m resolution) for cultural ecosystem service mapping
+- `110m_cultural/` — Geospatial data (110 m resolution) for cultural ecosystem service mapping
 
 ---
 
