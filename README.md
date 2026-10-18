@@ -6,11 +6,8 @@ It includes the complete datasets and analysis code used in the study, for refer
 
 ## Repository Structure
 
-- `all/` — Complete raw dataset downloaded from Web of Science (WoS)
 - `annotated_wos_data/` — Classified literature dataset covering three categories of ecosystem services
 - `code/` — Main analysis scripts for bibliometric computation and classification
-- `50m_cultural/` — Geospatial data (50 m resolution) for cultural ecosystem service mapping
-- `110m_cultural/` — Geospatial data (110 m resolution) for cultural ecosystem service mapping
 
 ---
 
